@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"095ddb96369e4f82","type":"text","text":"Big O Notation","x":-45,"y":-680,"width":250,"height":60},
+		{"id":"e8746dc289934bea","type":"text","text":"É sobre escalabilidade.\n\nNão é sobra alocação ","x":-45,"y":-160,"width":240,"height":100},
+		{"id":"45199ee2cac6333e","type":"file","file":"Complexidade Espacial.md","x":520,"y":-335,"width":400,"height":400},
+		{"id":"59180f67f3292b77","type":"file","file":"Complexidade Temporal.md","x":-640,"y":-335,"width":400,"height":400},
+		{"id":"fc199c2ebaab1bff","type":"file","file":"O(1).md","x":-1320,"y":400,"width":400,"height":400},
+		{"id":"1e4c90fe61eaf9f7","x":-840,"y":400,"width":400,"height":400,"type":"file","file":"O(LOG N).md"}
+	],
+	"edges":[
+		{"id":"52ec46ec0ed22aae","fromNode":"095ddb96369e4f82","fromSide":"bottom","toNode":"45199ee2cac6333e","toSide":"top"},
+		{"id":"41ea87b10cc89e2d","fromNode":"095ddb96369e4f82","fromSide":"bottom","toNode":"59180f67f3292b77","toSide":"top"},
+		{"id":"c5bc5c092fa5370f","fromNode":"095ddb96369e4f82","fromSide":"bottom","toNode":"e8746dc289934bea","toSide":"top"},
+		{"id":"c37c5d768cee24f2","fromNode":"e8746dc289934bea","fromSide":"bottom","toNode":"fc199c2ebaab1bff","toSide":"top"},
+		{"id":"8ba3dc22db4f0efa","fromNode":"e8746dc289934bea","fromSide":"bottom","toNode":"1e4c90fe61eaf9f7","toSide":"top"}
+	]
+}
