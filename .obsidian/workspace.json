@@ -25,14 +25,17 @@
             "id": "f6fee77e018ba052",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Complexidade Espacial.md",
-                "mode": "source",
-                "source": false
+                "file": "Big O Notation.canvas",
+                "viewState": {
+                  "x": -200,
+                  "y": 60,
+                  "zoom": -1.4026003960406213
+                }
               },
-              "icon": "lucide-file",
-              "title": "Complexidade Espacial"
+              "icon": "lucide-layout-dashboard",
+              "title": "Big O Notation"
             }
           }
         ],
@@ -183,8 +186,8 @@
   },
   "active": "f6fee77e018ba052",
   "lastOpenFiles": [
-    "Complexidade Temporal.md",
     "Complexidade Espacial.md",
+    "Complexidade Temporal.md",
     "O(LOG N).md",
     "O(1).md",
     "Big O Notation.canvas",
